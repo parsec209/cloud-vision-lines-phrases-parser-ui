@@ -2,6 +2,8 @@
 
 UI that demonstrates the functionality of the [cloud-vision-lines-phrases](https://www.npmjs.com/package/cloud-vision-lines-phrases) and [cloud-vision-lines-phrases-parser](https://www.npmjs.com/package/cloud-vision-lines-phrases-parser) packages. 
 
+Check out an interactive demo on [CodeSandbox](https://codesandbox.io/s/github/parsec209/cloud-vision-lines-phrases-parser-ui).
+
 ## Quick Start
 
 ```bash
